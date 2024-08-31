@@ -4,4 +4,3 @@ numpy
 easyocr
 pillow
 matplotlib
-cv2
